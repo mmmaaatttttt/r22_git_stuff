@@ -1,19 +1,19 @@
-function add(x, y) {
-  return x + y;
+function add(num1, num2) {
+  return num1 + num2;
 }
 
-function subtract(x, y) {
-  return x - y;
+function subtract(num1, num2) {
+  return num1 - num2;
 }
 
-function multiply(x, y) {
-  return x * y;
+function multiplnum2(num1, num2) {
+  return num1 * num2;
 }
 
-function divide(x, y) {
-  return x / y;
+function divide(num1, num2) {
+  return num1 / num2;
 }
 
-function power(x, y) {
-  return x ** y;
+function power(num1, num2) {
+  return num1 ** num2;
 }
