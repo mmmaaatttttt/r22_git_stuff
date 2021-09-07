@@ -1,3 +1,9 @@
 body {
   background: peachpuff;
+  color: darkblue;
+}
+
+div.big {
+  padding: 100px;
+  font-size: 25px;
 }
